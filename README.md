@@ -2,7 +2,7 @@
 
 Меня зовут <i>Аркадий</i>. Мне 25 лет и я мобильный (гибридный) и веб-разработчик.
 
-<img src="zhark10.jpg" width="30%">
+<img src="zhark.jpg" width="40%">
 
 На данный момент, я Senior Frontend Developer компании [Original Group](https://original-group.ru/).
 Основной стек: React + TypeScript + все смежное. 
