@@ -4,7 +4,7 @@
 
 <img src="zhark10.jpg" width="40%">
 
-На данный момент, я Tech/Team Lead департамента инвестиционно-технологического холдинга [Original Group](https://original-group.ru/).
+На данный момент, я Tech/Team Lead в компании OriginalSoft инвестиционно-технологического холдинга [OriginalGroup](https://original-group.ru/).
 Основной стек, который принес мне коммерческий профит: React, React Native, TypeScript (JavaScript), Redux, MobX, AngularJS + все смежное
 
 Также имею некоммерческий опыт работы с Flutter + Dart, NodeJS (Express, NestJS), Bash, Docker, etc
