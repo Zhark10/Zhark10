@@ -9,12 +9,12 @@ Frontend Tech/Team Lead компании OriginalSoft (Москва) инвес�
 
 Также имею некоммерческий опыт работы с NodeJS (Express, NestJS), Go, Bash, Docker, Flutter + Dart, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhark10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhark10&layout=compact&theme=dark)
 
 В общем, интересуюсь многим и тебе советую🤓
 
 ### Буду рад, если подпишешься на мой github-аккаунт!😄
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhark10&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhark10&show_icons=true&theme=dark)
 
 Мой коммерческий опыт основан на разработке интересных разноплановых проектов: 
 - web-виджет идентификации, аутентификации, авторизации; 
