@@ -4,7 +4,7 @@
 
 <img src="zhark10.jpg" width="40%">
 
-Frontend Tech/Team Lead компании OriginalSoft (Москва) инвестиционно-технологического холдинга [OriginalGroup](https://original-group.ru/).
+Frontend Tech/Team Lead компании [NLMK IT](https://it.nlmk.com/ru/) (Москва/Липецк) металлургической компании с производственными площадками в России и за рубежом [NLMK](https://nlmk.com/ru/).
 Основной стек, который принес мне коммерческий профит: React, React Native, TypeScript (JavaScript), Redux, MobX (mobx-state-tree), Effector, AngularJS + все смежное.
 
 Также имею некоммерческий опыт работы с NodeJS (Express, NestJS), Go, Bash, Docker, Flutter + Dart, etc.
