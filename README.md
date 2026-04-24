@@ -1,6 +1,6 @@
 ### Привет, приятель! Я рад, что ты здесь! 👋
 
-Меня зовут <i>Аркадий</i>. Мне 30 лет и я мобильный (гибридный) и веб-разработчик.
+Меня зовут <i>Аркадий</i>. Мне 31 и я мобильный (гибридный) и веб-разработчик.
 
 <img src="zhark10.jpg" width="40%">
 
@@ -12,9 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhark10&layout=compact&theme=dark)
 
 В общем, интересуюсь многим и тебе советую🤓
-
-### Буду рад, если подпишешься на мой github-аккаунт!😄
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhark10&show_icons=true&theme=dark)
 
 Мой коммерческий опыт основан на разработке интересных разноплановых проектов: 
 - web-виджет идентификации, аутентификации, авторизации; 
